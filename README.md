@@ -307,7 +307,7 @@ Split table keeping different variables in each table where variables are define
                                     |___/
     */
 
-    filename ft15f001 "c:/oto/debugx.as";
+    filename ft15f001 "c:/oto/debugx.sas";
     parmcards4;
     %macro debugx;
        %let rc=%sysfunc(filename(myRef,%sysfunc(pathname(work))/mactxt.sas));
