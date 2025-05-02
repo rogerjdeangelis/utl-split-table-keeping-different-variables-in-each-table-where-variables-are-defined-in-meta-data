@@ -45,7 +45,7 @@ Split table keeping different variables in each table where variables are define
     /*                                      |                                      |                                          */
     /* WORK.META                            | Create a RED table with              | WORK.GREEN       from meta data          */
     /*                                      | variables Num1 Num2 and              |                  ==============          */
-    /* VARNAME    TABLE                     | GREEN table with Num1-Num3           | COLOR AREA CODE  NUM3 NUM4 NUM5          */
+    /* VARNAME    TABLE                     | GREEN table with Num3-Num5           | COLOR AREA CODE  NUM3 NUM4 NUM5          */
     /*                                      |                                      |                                          */
     /*  Num1      RED                       | 1 DO_OVER MACRO SOLUTION             | GREEN  NY  A2134  89   43   12           */
     /*  Num2      RED                       | ========================             | GREEN  SR  G3897  73   26   18           */
